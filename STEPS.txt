@@ -1,0 +1,17 @@
+In app.js create components: <Navigation />
+Components/Navigation = Sign out button: Use tachyons and return a navigation object
+
+Style background with index.css
+
+Create logo component
+install tilt.js with npm
+
+To center textbox input and button - create app.css center class and then add that as a className to div that surrounds components
+
+Create state for button clicks etc:
+In app function create: 
+class App extends Component {
+
+}
+
+
